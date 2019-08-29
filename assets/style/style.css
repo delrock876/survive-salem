@@ -1,0 +1,11 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 400px 400px;
+  grid-template-rows: 700px;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+}
